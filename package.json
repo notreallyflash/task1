@@ -1,0 +1,27 @@
+{
+  "name": "task1-app",
+  "version": "1.0.0",
+  "description": "A mobile app with multiple screens",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "expo": "~49.0.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "keywords": [
+    "react-native",
+    "mobile-app",
+    "expo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
