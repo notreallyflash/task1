@@ -4,3 +4,11 @@ I chose a vibrant, friendly color scheme: a striking, trustworthy blue for all t
 
 Colour Scheme used - Blue (~#38B6FF) used for all clickable actions, like buttons and links. This is set against a very light, soft Mint Green background, with Black for all primary text (headlines, labels) and Greys for secondary text (placeholders).
 Fonts used - Poppins with regular, medium,semi-bold mostly
+
+This is the login screen of the app
+![Login Screen](https://github.com/user-attachments/assets/a84960f8-a4ce-4596-b65b-4159ae9d1300)
+
+This is The sign up screen of the app
+![Sign up Screen](https://github.com/user-attachments/assets/00d4f085-3cb2-4531-b6d3-387278ac7f64)
+
+
