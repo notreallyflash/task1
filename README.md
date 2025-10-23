@@ -17,4 +17,7 @@ This is The sign up screen of the app
 
 ![Sign up Screen](https://github.com/user-attachments/assets/00d4f085-3cb2-4531-b6d3-387278ac7f64)
 
+Kindly find the figma link here
+
+https://www.figma.com/design/o11TBTY5BLJaMnPuVufXLj/Elevate-Labs?node-id=0-1&t=OANibSyaoUq8AXJh-1
 
